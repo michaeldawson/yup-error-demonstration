@@ -1,0 +1,7 @@
+{
+  "name": "yup-error-demo",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "yup": "^1.3.3"
+  }
+}
